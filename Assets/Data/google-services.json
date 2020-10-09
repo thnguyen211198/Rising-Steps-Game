@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "223214869658",
+    "firebase_url": "https://my-game-database-ad641.firebaseio.com",
+    "project_id": "my-game-database-ad641",
+    "storage_bucket": "my-game-database-ad641.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223214869658:android:2728e2334980fc9d005323",
+        "android_client_info": {
+          "package_name": "com.hcmut.demo1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223214869658-bmb7feplpbv3vfam190uqudaqust4nbn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvWDn9pyxZZqtiOkpCDavZcI4TPoXLXdU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223214869658-bmb7feplpbv3vfam190uqudaqust4nbn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
